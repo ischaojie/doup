@@ -22,35 +22,39 @@
     "url": "https://movie.douban.com",
     "icon": "https://favicons.githubusercontent.com/movie.douban.com",
     "slug": "movie",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 1634,
     "timeDay": 1634,
     "timeWeek": 1634,
     "timeMonth": 1634,
     "timeYear": 1634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "book",
     "url": "https://book.douban.com",
     "icon": "https://favicons.githubusercontent.com/book.douban.com",
     "slug": "book",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2181,
     "timeDay": 2181,
     "timeWeek": 2181,
     "timeMonth": 2181,
     "timeYear": 2181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
