@@ -22,19 +22,19 @@
     "url": "https://movie.douban.com",
     "icon": "https://favicons.githubusercontent.com/movie.douban.com",
     "slug": "movie",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 1634,
-    "timeDay": 1634,
-    "timeWeek": 1634,
-    "timeMonth": 1634,
-    "timeYear": 1634,
+    "status": "up",
+    "uptime": "82.62%",
+    "uptimeDay": "82.62%",
+    "uptimeWeek": "82.62%",
+    "uptimeMonth": "82.62%",
+    "uptimeYear": "82.62%",
+    "time": 4553,
+    "timeDay": 4553,
+    "timeWeek": 4553,
+    "timeMonth": 4553,
+    "timeYear": 4553,
     "dailyMinutesDown": {
-      "2022-06-30": 1
+      "2022-06-30": 27
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://book.douban.com",
     "icon": "https://favicons.githubusercontent.com/book.douban.com",
     "slug": "book",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2181,
-    "timeDay": 2181,
-    "timeWeek": 2181,
-    "timeMonth": 2181,
-    "timeYear": 2181,
+    "status": "up",
+    "uptime": "82.87%",
+    "uptimeDay": "82.87%",
+    "uptimeWeek": "82.87%",
+    "uptimeMonth": "82.87%",
+    "uptimeYear": "82.87%",
+    "time": 1885,
+    "timeDay": 1885,
+    "timeWeek": 1885,
+    "timeMonth": 1885,
+    "timeYear": 1885,
     "dailyMinutesDown": {
-      "2022-06-30": 0
+      "2022-06-30": 27
     }
   }
 ]
