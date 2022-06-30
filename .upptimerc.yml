@@ -5,6 +5,8 @@ repo: doup # The name of this repository
 sites:
   - name: Douban
     url: https://www.douban.com
-
+status-website:
+  baseUrl: /doup # where "repo" is your repository name
+  name: Douban Status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
